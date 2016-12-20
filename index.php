@@ -3,7 +3,7 @@
     {
         const constant = 'constant value';
         
-		//This is function 
+        //This is function of my code
         function showConstant(){
             echo self::constant."\n";
         }
