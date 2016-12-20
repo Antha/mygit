@@ -1,4 +1,6 @@
 <?php
+
+//Product Class
 class Product
 {
     public $name;
