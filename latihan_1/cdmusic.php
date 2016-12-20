@@ -1,6 +1,7 @@
 <?php
 require_once("product.php");
 
+//CD Music Class
 class Cdmusic extends Product
 {
     public $artist;
